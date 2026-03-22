@@ -18,6 +18,6 @@ Me chamo **André Luiz**, mas pode me chamar de **Andew**. Moro em **São José 
 
 ## 📊 GitHub Stats
 
-![Andew GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewhow_icons=true&theme=tokyonight)
+![Andew GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew&layout=compact&theme=tokyonight)
