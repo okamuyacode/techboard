@@ -1,9 +1,23 @@
-Me chamo André Luiz, mas pode me chamar de Andew. Moro em São José - SC.
+## 👋 Olá! Eu sou o Andew
 
-Atualmente, estou em processo de formação na área de tecnologia, com foco em desenvolvimento e construção de soluções práticas. Sou assinante da plataforma Alura, onde venho aprofundando meus conhecimentos e evoluindo constantemente minhas habilidades.
+Me chamo **André Luiz**, mas pode me chamar de **Andew**. Moro em **São José - SC**.
 
-Tenho grande interesse por tecnologia, programação e inovação, e estou sempre em busca de aprender mais, melhorar minhas competências e me tornar um profissional cada vez mais completo.
+💻 Apaixonado por tecnologia e programação  
+📚 Estudando diariamente pela Alura  
+🚀 Em busca da minha primeira oportunidade como dev  
 
-🚀 Estou sempre aberto a novos desafios e oportunidades de crescimento.
+---
 
-📚 Aprendizado contínuo faz parte da minha rotina.
+## 🧠 Tecnologias em aprendizado
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Andew GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
