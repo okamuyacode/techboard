@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Desenvolvedor%20em%20aprendizado-0A66C2?style=for-the-badge&logo=github&logoColor=white)
+
 ## 👋 Olá! Eu sou o Andrew
 
 Me chamo **André Luiz**, mas pode me chamar de **Andrew**. Moro em **São José - SC**.
